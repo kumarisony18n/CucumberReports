@@ -11,7 +11,7 @@ public class CucumberReport {
 
 	@When("User clicks on Login button")
 	public void user_clicks_on_login_button() {
-		 System.out.println("User clicks on Login button");
+		 System.out.println(" User clicks on Login button");
 	}
 
 	@Then("Welcome page should be displayed")
